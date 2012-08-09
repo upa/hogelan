@@ -12,6 +12,11 @@ You can create/destroy vxlan tunnel interface using
 vxlanctl. And configure access list about ARP/ND/MAC.
 It can work on Linux Only. 
 
+### Notice ###
+hogelan is experimental implementation. if you'd like to use 
+simple vxlan implementation, please see http://github.com/upa/vxlan/
+
+
 Install
 -------
 
